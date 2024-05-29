@@ -1,0 +1,24 @@
+.DrinkSelection {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .DrinkSelection h1 {
+    font-size: 2em;
+    margin-bottom: 50px;
+  }
+  
+  .DrinkSelection a {
+    display: block;
+    margin: 10px 0;
+    padding: 20px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .DrinkSelection a:hover {
+    background-color: #0056b3;
+  }
+  

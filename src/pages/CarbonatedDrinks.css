@@ -1,0 +1,24 @@
+.CarbonatedDrinks {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .CarbonatedDrinks h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .CarbonatedDrinks ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .CarbonatedDrinks li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
